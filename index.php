@@ -4,7 +4,7 @@
 <html lang="de">
   <head>
     <meta charset="utf-8">
-    <link rel="shortcut icon" href="img/favicon.ico">
+    <link rel="shortcut icon" href="includes/img/favicon.ico">
     <title>LiquidSoap Controller v2</title>
   </head>
   <body>
